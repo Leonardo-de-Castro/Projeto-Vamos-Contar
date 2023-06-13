@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #4782c5;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    text-align:left;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.26);
+}
+
+div {
+   
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
+
+a {
+    background-color: aliceblue;
+    color: blue;
+    text-decoration: none;
+    border-radius: 2px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.493);
+
+}
+
+a:hover {
+    background-color: #4782c5;
+    color: aliceblue;
+    
+
+}
